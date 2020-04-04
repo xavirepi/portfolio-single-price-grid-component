@@ -1,0 +1,149 @@
+body {
+  background-color: hsl(204, 43%, 93%);
+  color: WhiteSmoke;
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+  line-height: 1.75;
+  padding: 100px 50px;
+}
+
+h1 {
+  color: hsl(179, 62%, 43%);
+  font-size: 25px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+h2 {
+  font-size: 17px;
+  font-weight: 550;
+  margin: 25px auto 6px;
+}
+
+h4 {
+  font-weight: 400;
+  font-size: 15px;
+  color: WhiteSmoke;
+  margin-top: 0;
+}
+
+div {
+  display: inline-block;
+  padding: 10px 30px;
+}
+
+p {
+  font-size: 14px;
+  color: #AFEEEE;
+  margin: 0;
+}
+
+/* DIVS */
+.join-community {
+  background-color: white;
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.subscription {
+  background-color: hsl(179, 62%, 43%);
+  border-bottom-left-radius: 5px;
+  height: 239px;
+  width: 239px;
+}
+
+.why-us {
+  background-color: hsl(179, 62%, 47%);
+  border-bottom-right-radius: 5px;
+  height: 239px;
+  position: absolute;
+  right: 58px;
+  width: 239px;
+}
+
+/* OTHER CLASS SELECTORS */
+.attribution {
+  color: Gray;
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.subtitle {
+  color: hsl(71, 73%, 54%);
+  margin: 0 auto;
+}
+
+.subtitle-2 {
+  color: hsl(218, 22%, 67%);
+  margin: 8px 0 30px;
+}
+
+.footer {
+  margin-top: 200px;
+}
+
+.dollar {
+  color: WhiteSmoke;
+  font-size: 28px;
+}
+
+.per-month {
+  bottom: 5px;
+  color: #48D1CC;
+  font-size: 16px;
+  left: 9px;
+  position: relative;
+}
+
+.why-us-paragraph {
+  line-height: 1.5;
+}
+
+.full-access {
+  color: #AFEEEE;
+}
+
+.sign-up-btn {
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   border-radius: 5px;
+   height: 40px;
+   line-height: 40px;
+   color: #FFFFFF;
+   font-family: 'Karla', sans-serif;
+   width: 243px;
+   font-size: 40px;
+   font-weight: 100;
+   padding: 20px;
+   background-color: #C0DF34;
+   box-shadow: 1px 1px 29px 0px #000000;
+   -webkit-box-shadow: 1px 1px 29px 0px #000000;
+   -moz-box-shadow: 1px 1px 29px 0px #000000;
+   border: solid #337FED 0px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.sign-up-btn:hover {
+   border: solid #FFFFFF 0px;
+   background: #C0DF34;
+   background-image: -webkit-linear-gradient(top, #C0DF34, #NANNANNAN);
+   background-image: -moz-linear-gradient(top, #C0DF34, #NANNANNAN);
+   background-image: -ms-linear-gradient(top, #C0DF34, #NANNANNAN);
+   background-image: -o-linear-gradient(top, #C0DF34, #NANNANNAN);
+   background-image: linear-gradient(to bottom, #C0DF34, #NANNANNAN);
+   -webkit-border-radius: 5px;
+   -moz-border-radius: 5px;
+   border-radius: 5px;
+   text-decoration: none;
+}
+
+#sign-up {
+  E
+}
